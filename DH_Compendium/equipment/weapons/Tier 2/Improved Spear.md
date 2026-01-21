@@ -1,0 +1,32 @@
+---
+tags: weapon
+type: primary
+trait: Finesse
+range: Very Close
+tier: 2
+damage: d8+6 phy
+burden: Two-Handed
+feature: 
+art: ImprovedSpear.png
+---
+
+>[!infobox]
+>`VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
+> # `=this.file.name`
+>  |
+>---|:---:|
+>**Type** | `VIEW[{type}]`
+>**Tier** | `VIEW[{tier}]`
+> **Trait** | `VIEW[{trait}]`
+> **Range** | `VIEW[{range}]`
+> **Damage** | `VIEW[{damage}]`
+> **Burden** | `VIEW[{burden}]`
+> **Feature** | `VIEW[{feature}]`
+
+# IMPROVED SPEAR
+
+**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
+
+**Feature:** —
+
+*Primary Weapon - Tier 2*

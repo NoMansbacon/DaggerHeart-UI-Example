@@ -1,0 +1,21 @@
+---
+tags: domain
+type: spell
+domain: sage
+level: 2
+stress: 1
+feature: .**Tekaira Armored Beetles** Mark a Stress to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can spend a Hope to keep the beetles conjured after taking damage. **Fire Flies** Make a Spellcast Roll against all adversaries within Close range. Spend a Hope to deal 2d8+3 magic damage to targets you succeed against.
+art: sage-conjure-swarm.jpeg
+---
+
+>[!infobox]
+>`VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
+> # `=this.file.name`
+>  |
+>---|:---:|
+>**Level** | `VIEW[{level}]`
+> **Domain** | `VIEW[{domain}]`
+> **Type** | `VIEW[{type}]`
+> **Stress Cost** | `VIEW[{stress}]`
+> `VIEW[{feature}][text(renderMarkdown)]`
+

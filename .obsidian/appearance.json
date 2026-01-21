@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "SailKite - TabsInObsidian",
+    "TabsInObsidian - MaxH",
+    "TabsInObsidian - MaxH480"
+  ],
+  "accentColor": ""
+}
